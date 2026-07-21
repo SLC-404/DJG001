@@ -9,4 +9,5 @@ whitenoise
 gunicorn
 stripe
 dj-database-url
+psycopg[binary]
 ruff
